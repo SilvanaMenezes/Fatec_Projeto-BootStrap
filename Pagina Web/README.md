@@ -22,9 +22,9 @@ Para usar a página, siga estas etapas:
 ## 👩‍💻 Desenvolvedoras
 
 <div style = "justify-content-center">
-  <a href="https://github.com/Giuliana09">
-  <a href="https://github.com/LarissaSL">
-  <a href="https://github.com/SilvanaMenezes">  
+  <a href="https://github.com/Giuliana09">Giuliana</a>
+  <a href="https://github.com/LarissaSL">Larissa</a>
+  <a href="https://github.com/SilvanaMenezes">Silvana</a> 
 </div>
 
 ## 📝 Licença
